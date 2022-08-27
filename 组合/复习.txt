@@ -1,0 +1,43 @@
+组合(4-12): A上1 B上3 下6   错了3/10
+1. ETF pros and cons: lower fees, 
+bid-ask spread影响因素：creation/redemption fees and other direct costs(+-)
+counterparty risk: default risk, settlement risk, security lending, not include fund closure
+factor investing: trying to beat market, factor ETFs also called smart beta ETFs
+
+tracking error = sigma(return on etf- return on benchmark)
+
+2. 几乎必考：模型的每一项含义，模型之间的对比；计算题，根据模型计算回报
+apt vs capm优势，E(R)根据beta premium计算
+fundamental factor models are importent in explaining cross-sectional differences in asset returns
+Active risk squared = active factor risk + active specific risk
+
+3.几乎必考：var的定义和解读，va的计算参数法，历史模拟法， 三种var计算方法优缺点
+var历史模拟法求值, conditional var， incremental var, marginal var, relative var
+var缺陷，主观，忽视肥尾效应，没考虑流动性，对相关性风险很敏感，容易被人误解，过于简化，没考虑到右侧事件比如极端收益
+var 参数法计算注意daily var还是annual的var
+
+4. sensitivity risk vs scenario risk
+pension funds care about surplus at risk
+
+5. steps in backtesting: strategy design, historical investment simulation, analysis of backtesting output
+survivorship bias, look-ahead bias, data snooping
+
+6. breakeven inflation rate = expectation of inflation+ uncertainty of inflation
+
+7. information ratio IR
+E(Ra)=IR * sigma
+IR=TC*IC*根号BR
+the portfolio with highest IR produce the highest combined sharpe ratio when combined with benchmark portfolio
+active risk = tracking error
+optimal sharpe ratiio = sqrt(information ratio-square+benchmark sharpe ratio-square)
+information ratio不会受到active weights超额权重的影响
+
+8. explicit costs v.s. implicit costs
+market fragmentation: trading the same instrument in multiple venues
+effective trading cost/effective spread， vwap trading cost计算
+implementation shortfall measuters the total cost of implementing an investment decision
+
+
+
+
+

@@ -1,0 +1,22 @@
+权益（8-12）：B上1 B下3 错误1/10
+1. ERP =EDY + [(1+EINFL)(1+EGREPS)(1+EGPE)-1]-Erf
+2. beta drift and adjusted beta
+3. bottom up v.s. top down analysis
+4. PVGO= V0-E1/r  
+5. two stage ddm
+6 g=b*ROE
+7. working capital 计算
+ddm, fcfe,fcff
+
+8. price multiples, enterprise value multiples according to law of one price
+EV/EBITDA=(mv debt + mv ce+ mv pe - cash and short-term investments)/EBITDA
+
+9. EVA = NOPAT - (WACC% * Total Capital)
+MVA= market value of firm - invested capital=the accounting book value of total capital
+single stage V0=B0+B0*(ROE-r)/(r-g)=b0（roe-g）/(r-g)
+multistage: premium over book value; persistence factor ! ! !
+
+10. clean surplus solution violation situations
+11. RI一阶段公式，二阶段公式 terminal value=RI/r, persistence factor w=(g+1)
+12. DLOM,DLOC=1-1/(1+control premium)
+13. trailing P/E: earning需要把non-recurring term 加回来

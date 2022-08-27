@@ -1,0 +1,43 @@
+
+
+1.
+➢ Initial outlay = FCInv + NWCInv − Sal0 + T × (Sal0 − B0)
+CF = S − C − D 1 − T + D
+
+➢ CFTNO = SalT + NWCInv − T SalT − BT
+✓ SalT: cash proceeds (salvage value) from sale of fixed capital 
+on termination date
+✓ NWCInv: recovery of investment in net working capital
+✓ T: marginal tax rate
+✓ BT: book value of fixed capital on termination date
+
+2. expansion project v.s. replacement project
+
+3. Least Common Multiple of Lives Approach; Equivalent Annual Annuity Approach
+profitability index (PI)
+
+4. real options:
+Timing options (delay investment)
+Sizing options (abandonment & expansion option)
+Flexibility options ( price setting option & production flexibility option)
+Fundamental options (gold mine & oil well买卖标的资产的权利)
+
+5. 区分Sensitivity analysis; Scenario analysis; MonteCarlo simulation
+bond的;option的
+optimistic-most likely- pessimistic;分析的是情景不是boundaries
+参数符合概率分布 关键词：distribution
+
+6. spin-off; split-off; equity carve-out; liquidation
+spin-off,分成两家公司，一家公司股权当成股利发放 关键词：原股东保持不变
+split-off,分成两家公司，原公司股东可以置换成某一个子公司的股权
+equity carve-out 分成两个部分，股东也分成两块，一般其中一个是为了上市做准备
+liquidation, 分成两个部分，一个部分进行清算
+
+7. green bond, green washing risk
+
+8. merge acquisition差别，merger的种类
+
+8道题里面错了3题
+
+
+合并之后asset数字: 母BV+100%子FV-PP(purchase price)+GW
